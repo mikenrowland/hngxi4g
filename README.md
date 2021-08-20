@@ -1,2 +1,3 @@
 # hngxi4g
-my portfolio task built with Django
+My portfolio task built with Django
+Check the portfolio on heroku >>> https://hng8-portfolio.herokuapp.com/
